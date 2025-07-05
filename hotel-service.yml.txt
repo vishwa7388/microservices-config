@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+welcome:
+  message: Hello from Hotel Service Config!
